@@ -1,0 +1,73 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Add and fill in the answer in the blank boxes to help Ada count the seashells.",
+    "options":["1","4","1","2","",""],
+    "operand": "+",
+    "answers": ["1","4","1","2","2","6"]
+  },
+  {
+    "questionNo": 2,
+    "question": "Subtract and fill in the answer in the blank boxes to help Charles with his sandcastle.",
+    "options":["2","7","1","3","",""],
+    "operand": "-",
+    "answers": ["2","7","1","3","1","4"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Ada and Charles are counting their snacks. Add and fill in the answer in the blank boxes. ",
+    "options":["2","1","0","6","",""],
+    "operand": "+",
+    "answers": ["2","1","0","6","2","7"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Add and fill in the answer in the blank boxes to help Charles count their beach balls.",
+    "options":["1","1","1","7","",""],
+    "operand": "+",
+    "answers": ["1","1","1","7","2","8"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Can you help Ada keep track of her beautiful stones by subtracting and filling the answer in blank boxes?",
+    "options":["4","9","3","4","",""],
+    "operand": "-",
+    "answers": ["4","9","3","4","1","5"]
+  },
+  {
+    "questionNo": 6,
+    "question": "Ada found some colorful pieces of sea glass. Add and fill in the answer in the blank boxes to help her find total pieces.",
+    "options":["2","2","0","6","",""],
+    "operand": "+",
+    "answers": ["2","2","0","6","2","8"]
+  },
+  {
+    "questionNo": 7,
+    "question": "Add and fill in the answer in the blank boxes to help Ada gather sandcastle tools.",
+    "options":["1","8","1","1","",""],
+    "operand": "+",
+    "answers": ["1","8","1","1","2","9"]
+  },
+  {
+    "questionNo": 8,
+    "question": "Add and fill in the answer in the blank boxes to help them find the total number of sand buckets.",
+    "options":["2","4","2","1","",""],
+    "operand": "+",
+    "answers": ["2","4","2","1","4","5"]
+  },
+  {
+    "questionNo": 9,
+    "question": "Charles was playing beach volleyball. Help Ada count his points by subtracting the points he lost during the game. ",
+    "options":["2","9","0","8","",""],
+    "operand": "-",
+    "answers": ["2","9","0","8","2","1"]
+  },
+  {
+    "questionNo": 10,
+    "question": "Ada and Charles went swimming. Add and fill in the answer in the blank boxes to calculate their total time used for swimming.",
+    "options":["5","5","1","3","",""],
+    "operand": "+",
+    "answers": ["5","5","1","3","6","8"]
+  }
+]
